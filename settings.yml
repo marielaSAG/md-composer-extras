@@ -1,3 +1,11 @@
+heading_button:
+  default: "Heading"
+  description:
+    en: Enter the text for the title of the button in the composer.
+heading_text:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.
 underline_button:
   default: "Underline"
   description:
